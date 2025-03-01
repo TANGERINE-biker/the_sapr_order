@@ -1,0 +1,4 @@
+Petrov Petr Petrovich 2000 89021449864 PetrovskayaSt. 888 4 + diabetes
+Vasilevskiy Vasiliy Vasilievich 1999 89041775467 VasilevskayaSt. 555 3 - autism
+Gornostaev Egor Egorovich 2001 89071445089 Moscow 777 2 - flu
+Maslinov Strelok Sidorovich 1977 89815553535 Chernobyl 555 4 + hiv
